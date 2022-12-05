@@ -1,9 +1,12 @@
 body {
-
+  font-family: <system-ui>;
+  background: #A9E5BB;
+  color:#234456;
+  text-align: left;
 }
 h1 {
-  color: silver;
+  color: #E5E5E5;
   font-size: 400 px
   text-align: center;
-  font-family: luminari;
+  font-family: "luminari";
     }
