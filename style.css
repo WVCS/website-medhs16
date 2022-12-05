@@ -1,3 +1,9 @@
 body {
 
 }
+h1 {
+  color: silver;
+  font-size: 400 px
+  text-align: center;
+  font-family: luminari;
+    }
