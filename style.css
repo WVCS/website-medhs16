@@ -6,6 +6,26 @@ body {
 }
 h1 {
   color: #E5E5E5;
+  font-size: 100px;
   text-align: center;
-  font-family: bradley hand;
+  font-family: bradleyhand;
     }
+li {
+  display: inline;
+  padding: 10%;
+}
+p {
+  display: inline;
+  padding: 10px;
+}
+nav {
+  bottom: 0;
+}
+th {
+  text-align: center;
+}
+h2 {
+  color: #E5E5E5;
+  font-size: 35px;
+  font-family: luminari;
+}
