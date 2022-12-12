@@ -1,31 +1,43 @@
 body {
   font-family: <system-ui>;
-  background: #A9E5BB;
-  color:#234456;
+  background: #EFF8E2;
+  color:#23022E;
   text-align: left;
 }
 h1 {
-  color: #E5E5E5;
-  font-size: 100px;
+  color: #4F2E76;
+  font-size: 60px;
   text-align: center;
-  font-family: bradleyhand;
+  font-family: luminari;
     }
 li {
   display: inline;
-  padding: 10%;
+  padding: 5%;
 }
 p {
   display: inline;
   padding: 10px;
 }
 nav {
-  bottom: 0;
+  top: 0;
+  list-style-type: none;
+  position: fixed;
+  background-color: #4F2E76;
+    width: 100%;
+  left:0;
+  font-family: luminari;
+}
+a {
+  color: #EFF8E2;
 }
 th {
   text-align: center;
 }
+td {
+  text-align: center;
+}
 h2 {
-  color: #E5E5E5;
+  color: #ADA8B6;
   font-size: 35px;
   font-family: luminari;
 }
